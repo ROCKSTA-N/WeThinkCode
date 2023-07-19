@@ -2,6 +2,8 @@
 
 [![Labeler](https://github.com/ROCKSTA-N/WeThinkCode/actions/workflows/label.yml/badge.svg?branch=main)](https://github.com/ROCKSTA-N/WeThinkCode/actions/workflows/label.yml)
 
+[![Mark stale issues and pull requests](https://github.com/ROCKSTA-N/WeThinkCode/actions/workflows/stale.yml/badge.svg?branch=main)](https://github.com/ROCKSTA-N/WeThinkCode/actions/workflows/stale.yml)
+
 # Technology to be used
 
 backend 
