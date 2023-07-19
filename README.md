@@ -18,8 +18,8 @@ As a logined in user , I want to click on a button and be navigated to a screen 
 
 backend 
   - Java
-  - SQLite
-  - sqlite-jdbc-(VERSION).jar
+  - SQLite  : https://github.com/xerial/sqlite-jdbc#download
+  - sqlite-jdbc-(VERSION).jar : https://github.com/xerial/sqlite-jdbc#download
 
 frontend
   - React
