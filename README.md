@@ -1,5 +1,7 @@
 # Todo Application
 
+[![Labeler](https://github.com/ROCKSTA-N/WeThinkCode/actions/workflows/label.yml/badge.svg?branch=main)](https://github.com/ROCKSTA-N/WeThinkCode/actions/workflows/label.yml)
+
 # Technology to be used
 
 backend 
